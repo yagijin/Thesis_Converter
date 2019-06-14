@@ -3,7 +3,7 @@
 そんな問題を解決するツールを作りました．  
 このツールを使い，訳したい論文の内容をコピペすると最終的にHTMLファイルが生成されます．  
 これをChromeで開くと簡単にGoogle翻訳に投げることができます．  
-pythonでPyQt5とpyperclipを入れて実行するか，exeファイルが[release]("https://github.com/yagijin/Thesis_Converter/releases")にあるのでそれを使ってください．
+pythonでPyQt5とpyperclipを入れて実行するか，exeファイルが[release](https://github.com/yagijin/Thesis_Converter/releases)にあるのでそれを使ってください．
 
 # GUI
 GUIはこんな感じです．  
